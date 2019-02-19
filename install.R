@@ -1,1 +1,1 @@
-install.packages("leaflet")
+install.packages(c("leaflet","knitr"))
