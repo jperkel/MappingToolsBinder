@@ -2,3 +2,5 @@ libudunits2-dev
 libgdal-dev 
 libgeos-dev 
 libproj-dev 
+libgdal1-dev 
+libgeos-c1 
