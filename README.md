@@ -1,6 +1,8 @@
-# Mapping-tools-examples
+# MappingToolsBinder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jperkel/MappingToolsBinder/master?urlpath=rstudio)
+
+**Note: This repository is deprecated. Please see https://github.com/jperkel/Mapping-tools-examples for the current version.**
 
 Simple examples of mapping in R, created for a Nature Toolbox article by Jeffrey Perkel, published 5 June 2018. [https://www.nature.com/articles/d41586-018-05331-6]
 
